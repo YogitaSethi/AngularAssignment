@@ -28,6 +28,6 @@ table th {
 }
 .table-dark tbody tr.active:hover,
 .table-dark tbody tr.active {
-  background-color: #004085;
+  background-color: black;
   color: white;
 }
